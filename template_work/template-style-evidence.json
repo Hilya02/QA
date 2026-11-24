@@ -1,0 +1,168 @@
+{
+  "input": "C:\\Users\\HilyaNtinda\\Desktop\\Student Stay\\Marvel TC\\20260912.Student_Stay_QA_Report_Round 1.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 156,
+  "direct_paragraph_formatting_paragraphs": 33,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "ADAIRE",
+      "style": ""
+    },
+    {
+      "para_index": 2,
+      "text": "Quality Assurance Test Report",
+      "style": ""
+    },
+    {
+      "para_index": 3,
+      "text": "Student Stay",
+      "style": ""
+    },
+    {
+      "para_index": 34,
+      "text": "Field",
+      "style": ""
+    },
+    {
+      "para_index": 35,
+      "text": "Detail",
+      "style": ""
+    },
+    {
+      "para_index": 36,
+      "text": "Field",
+      "style": ""
+    },
+    {
+      "para_index": 37,
+      "text": "Detail",
+      "style": ""
+    },
+    {
+      "para_index": 54,
+      "text": "Module",
+      "style": ""
+    },
+    {
+      "para_index": 55,
+      "text": "New findings",
+      "style": ""
+    },
+    {
+      "para_index": 56,
+      "text": "High",
+      "style": ""
+    },
+    {
+      "para_index": 57,
+      "text": "Medium",
+      "style": ""
+    },
+    {
+      "para_index": 58,
+      "text": "Low",
+      "style": ""
+    },
+    {
+      "para_index": 74,
+      "text": "ID",
+      "style": ""
+    },
+    {
+      "para_index": 75,
+      "text": "Finding",
+      "style": ""
+    },
+    {
+      "para_index": 76,
+      "text": "Severity",
+      "style": ""
+    },
+    {
+      "para_index": 77,
+      "text": "Business impact",
+      "style": ""
+    },
+    {
+      "para_index": 134,
+      "text": "ID",
+      "style": ""
+    },
+    {
+      "para_index": 135,
+      "text": "Finding",
+      "style": ""
+    },
+    {
+      "para_index": 136,
+      "text": "Severity",
+      "style": ""
+    },
+    {
+      "para_index": 137,
+      "text": "Business impact",
+      "style": ""
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "ADAIRE",
+        "style": ""
+      },
+      {
+        "para_index": 2,
+        "text": "Quality Assurance Test Report",
+        "style": ""
+      },
+      {
+        "para_index": 3,
+        "text": "Student Stay",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "text": "Third Round of Testing: Student Portal and Admin Portal",
+        "style": ""
+      },
+      {
+        "para_index": 5,
+        "text": "",
+        "style": ""
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "ADAIRE",
+        "style": ""
+      },
+      {
+        "para_index": 2,
+        "run_text": "Quality Assurance Test Report",
+        "style": ""
+      },
+      {
+        "para_index": 3,
+        "run_text": "Student Stay",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "run_text": "Third Round of Testing: Student Portal and Admin Portal",
+        "style": ""
+      },
+      {
+        "para_index": 8,
+        "run_text": "A third round of testing was carried out on the Student Stay Student Portal and ",
+        "style": ""
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "input": "C:\\Users\\HilyaNtinda\\Documents\\ChatGPT\\AdaireDigital\\StudentStay_Admin_Dashboard_QA_Report_2026-11-11.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 181,
+  "direct_paragraph_formatting_paragraphs": 33,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "ADAIRE",
+      "style": ""
+    },
+    {
+      "para_index": 2,
+      "text": "Quality Assurance Test Report",
+      "style": ""
+    },
+    {
+      "para_index": 3,
+      "text": "Student Stay",
+      "style": ""
+    },
+    {
+      "para_index": 34,
+      "text": "Field",
+      "style": ""
+    },
+    {
+      "para_index": 35,
+      "text": "Detail",
+      "style": ""
+    },
+    {
+      "para_index": 36,
+      "text": "Field",
+      "style": ""
+    },
+    {
+      "para_index": 37,
+      "text": "Detail",
+      "style": ""
+    },
+    {
+      "para_index": 54,
+      "text": "Test area",
+      "style": ""
+    },
+    {
+      "para_index": 55,
+      "text": "Checks",
+      "style": ""
+    },
+    {
+      "para_index": 56,
+      "text": "Passed",
+      "style": ""
+    },
+    {
+      "para_index": 57,
+      "text": "Failed",
+      "style": ""
+    },
+    {
+      "para_index": 58,
+      "text": "Status",
+      "style": ""
+    },
+    {
+      "para_index": 79,
+      "text": "Test ID",
+      "style": ""
+    },
+    {
+      "para_index": 80,
+      "text": "Test case",
+      "style": ""
+    },
+    {
+      "para_index": 81,
+      "text": "Status",
+      "style": ""
+    },
+    {
+      "para_index": 82,
+      "text": "Result",
+      "style": ""
+    },
+    {
+      "para_index": 155,
+      "text": "Test ID",
+      "style": ""
+    },
+    {
+      "para_index": 156,
+      "text": "Test case",
+      "style": ""
+    },
+    {
+      "para_index": 157,
+      "text": "Status",
+      "style": ""
+    },
+    {
+      "para_index": 158,
+      "text": "Result",
+      "style": ""
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "ADAIRE",
+        "style": ""
+      },
+      {
+        "para_index": 2,
+        "text": "Quality Assurance Test Report",
+        "style": ""
+      },
+      {
+        "para_index": 3,
+        "text": "Student Stay",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "text": "Admin Dashboard QA - Client Review",
+        "style": ""
+      },
+      {
+        "para_index": 5,
+        "text": "",
+        "style": ""
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "ADAIRE",
+        "style": ""
+      },
+      {
+        "para_index": 2,
+        "run_text": "Quality Assurance Test Report",
+        "style": ""
+      },
+      {
+        "para_index": 3,
+        "run_text": "Student Stay",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "run_text": "Admin Dashboard QA - Client Review",
+        "style": ""
+      },
+      {
+        "para_index": 8,
+        "run_text": "This report records the retest of the Student Stay admin dashboard and related w",
+        "style": ""
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

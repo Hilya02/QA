@@ -1,0 +1,168 @@
+{
+  "input": "C:\\Users\\HilyaNtinda\\Documents\\ChatGPT\\AdaireDigital\\StudentStay_Room_Inventory_QA_Report.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 124,
+  "direct_paragraph_formatting_paragraphs": 33,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "ADAIRE",
+      "style": ""
+    },
+    {
+      "para_index": 2,
+      "text": "Quality Assurance Test Report",
+      "style": ""
+    },
+    {
+      "para_index": 3,
+      "text": "Student Stay",
+      "style": ""
+    },
+    {
+      "para_index": 34,
+      "text": "Field",
+      "style": ""
+    },
+    {
+      "para_index": 35,
+      "text": "Detail",
+      "style": ""
+    },
+    {
+      "para_index": 36,
+      "text": "Field",
+      "style": ""
+    },
+    {
+      "para_index": 37,
+      "text": "Detail",
+      "style": ""
+    },
+    {
+      "para_index": 54,
+      "text": "Building",
+      "style": ""
+    },
+    {
+      "para_index": 55,
+      "text": "Physical rooms",
+      "style": ""
+    },
+    {
+      "para_index": 56,
+      "text": "Units",
+      "style": ""
+    },
+    {
+      "para_index": 57,
+      "text": "Workbook beds",
+      "style": ""
+    },
+    {
+      "para_index": 58,
+      "text": "Portal beds / result",
+      "style": ""
+    },
+    {
+      "para_index": 74,
+      "text": "Building / block",
+      "style": ""
+    },
+    {
+      "para_index": 75,
+      "text": "Physical rooms",
+      "style": ""
+    },
+    {
+      "para_index": 76,
+      "text": "Workbook beds",
+      "style": ""
+    },
+    {
+      "para_index": 77,
+      "text": "Portal beds / availability",
+      "style": ""
+    },
+    {
+      "para_index": 110,
+      "text": "Test ID",
+      "style": ""
+    },
+    {
+      "para_index": 111,
+      "text": "Check",
+      "style": ""
+    },
+    {
+      "para_index": 112,
+      "text": "Expected / source result",
+      "style": ""
+    },
+    {
+      "para_index": 113,
+      "text": "Observed portal result / status",
+      "style": ""
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "ADAIRE",
+        "style": ""
+      },
+      {
+        "para_index": 2,
+        "text": "Quality Assurance Test Report",
+        "style": ""
+      },
+      {
+        "para_index": 3,
+        "text": "Student Stay",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "text": "Room Inventory Verification",
+        "style": ""
+      },
+      {
+        "para_index": 5,
+        "text": "",
+        "style": ""
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "ADAIRE",
+        "style": ""
+      },
+      {
+        "para_index": 2,
+        "run_text": "Quality Assurance Test Report",
+        "style": ""
+      },
+      {
+        "para_index": 3,
+        "run_text": "Student Stay",
+        "style": ""
+      },
+      {
+        "para_index": 4,
+        "run_text": "Room Inventory Verification",
+        "style": ""
+      },
+      {
+        "para_index": 8,
+        "run_text": "The room inventory review is a partial pass. Workbook bed totals match the porta",
+        "style": ""
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
